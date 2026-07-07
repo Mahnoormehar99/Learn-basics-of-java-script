@@ -1,0 +1,26 @@
+#heading {
+    color:black;
+    font-style: oblique;
+    text-decoration: wavy;
+}
+.headings{
+    background-color: azure;
+    text-decoration: double;
+    font-variant: small-caps;
+}
+body{
+    background-color:white;
+}
+
+.para{
+    background-color: aqua;
+    color: blue;
+    text-decoration: dotted;
+    font-size: large;
+}
+
+button
+{
+    background-color:pink;
+    color: black;
+}
